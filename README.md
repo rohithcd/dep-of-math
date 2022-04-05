@@ -1,1 +1,0 @@
-# dep-of-math
